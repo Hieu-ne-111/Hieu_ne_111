@@ -17,4 +17,4 @@ Tôi đang học tập, nghiên cứu tại **Hanoi University of Science and Te
 - Làm chủ FPGA.
 - Làm chủ Linux.
 - Chuẩn bị cho tương lai làm việc các công ty (Viettel).
-- Tìm cơ hội để học thạc sĩ tại NTU Singapore. 
+ 
